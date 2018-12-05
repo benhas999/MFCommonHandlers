@@ -1,0 +1,23 @@
+{
+  "name": "MFCommonHandlers",
+  "version": "1.0.0",
+  "summary": "MFluid iOS common classes integrated pod.",
+  "description": "Easy to handle commonly used functions, classes with the help of dynamic    classes",
+  "homepage": "http://Mfluid.mobi",
+  "license": "MIT",
+  "authors": {
+    "": ""
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "MFCommonHandlers",
+  "exclude_files": "Classes/Exclude",
+  "swift_version": "3",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

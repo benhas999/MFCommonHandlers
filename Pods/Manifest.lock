@@ -1,0 +1,16 @@
+PODS:
+  - MFCommonHandlers (1.0.0)
+
+DEPENDENCIES:
+  - MFCommonHandlers (from `../MFCommonHandlers`)
+
+EXTERNAL SOURCES:
+  MFCommonHandlers:
+    :path: "../MFCommonHandlers"
+
+SPEC CHECKSUMS:
+  MFCommonHandlers: c71be8579b8ee5d029c56a4960363cdd2a5c9b27
+
+PODFILE CHECKSUM: 3f9c1746bbcfebb632304b5d01c041a9eeccd97f
+
+COCOAPODS: 1.5.3

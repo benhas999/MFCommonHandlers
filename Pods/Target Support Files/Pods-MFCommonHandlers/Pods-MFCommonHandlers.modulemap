@@ -1,0 +1,6 @@
+framework module Pods_MFCommonHandlers {
+  umbrella header "Pods-MFCommonHandlers-umbrella.h"
+
+  export *
+  module * { export * }
+}
